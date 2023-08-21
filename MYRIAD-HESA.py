@@ -394,7 +394,7 @@ print("--- %s seconds ---" % (time.time() - start_time))
 
 
 dfmulti['Hazard'] = dfmulti['code2'].replace(acronym_map)
-dfmulti = dfmulti[['Event', 'Hazard' ,'index1', 'code', 'starttime', 'endtime', 'Intensity', 'Unit', 'Geometry']]
+dfmulti = dfmulti[['Event', 'Hazard', 'code', 'starttime', 'endtime', 'Intensity', 'Unit', 'Geometry']]
 #uncommend following line to save dataset
 #df5.to_csv(path2)
 
