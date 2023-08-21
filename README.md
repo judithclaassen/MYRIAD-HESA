@@ -1,5 +1,5 @@
 # MYRIAD – Hazard Event Sets Algorithm (MYRIAD-HESA): 
-
+This repository provides a python script that can be used to compile historically-based multi-hazard event sets from single hazard events that have occured on varying time, space, and intensity scales. 
 ## Python requirements/dependencies
 
 * [Python](https://www.python.org/) 3.11.4
@@ -20,3 +20,10 @@ conda env create -f environment.yml
 conda activate MYRIAD-HESA
 
 ```
+## How to cite
+If you have used MYRIAD-HESA, please cite our paper:
+
+
+
+### License
+Copyright (C) 2023 Judith Claassen. All versions released under the [MIT license](LICENSE).
