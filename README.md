@@ -26,3 +26,7 @@ If you have used MYRIAD-HESA, please cite our paper "A new method to compile glo
 
 ### License
 Copyright (C) 2023 Judith Claassen. All versions released under the [MIT license](LICENSE).
+
+### Zenodo DOI
+
+[![DOI](https://zenodo.org/badge/681079004.svg)](https://zenodo.org/badge/latestdoi/681079004)
