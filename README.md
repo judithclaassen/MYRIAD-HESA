@@ -21,8 +21,7 @@ conda activate MYRIAD-HESA
 
 ```
 ## How to cite
-If you have used MYRIAD-HESA, please cite our paper:
-
+If you have used MYRIAD-HESA, please cite our paper "A new method to compile global multi-hazard event sets"
 
 
 ### License
